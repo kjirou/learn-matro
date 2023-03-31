@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/kjirou/learn-metro/issues"
   },
-  "homepage": "https://github.com/kjirou/learn-metro#readme"
+  "homepage": "https://github.com/kjirou/learn-metro#readme",
+  "devDependencies": {
+    "metro": "0.76.0",
+    "metro-core": "0.76.0"
+  }
 }
